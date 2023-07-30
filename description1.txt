@@ -1,0 +1,4 @@
+Job Title: Data Analyst
+Company: XYZ Corp
+
+We are looking for a skilled Data Analyst to join our team. The ideal candidate should have a strong background in data analysis, data visualization, and data-driven decision-making. Responsibilities include collecting, organizing, and interpreting data, generating insightful reports, and supporting the business with data-driven insights. Proficiency in SQL, Python, and data visualization tools like Tableau is required. Excellent analytical and problem-solving skills are essential for this role. If you are passionate about data and have a keen eye for detail, we encourage you to apply for this position.
