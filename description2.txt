@@ -1,0 +1,4 @@
+Job Title: Software Engineer
+Company: ABC Tech
+
+ABC Tech is seeking a highly motivated Software Engineer to develop and maintain software solutions for our clients. The ideal candidate should have a strong foundation in software development, object-oriented programming, and problem-solving skills. Responsibilities include designing, coding, testing, and debugging software applications, as well as collaborating with cross-functional teams to deliver high-quality software products. Proficiency in programming languages such as Java, C++, or Python is required. Knowledge of software development methodologies and version control systems is a plus. If you are a proactive and innovative thinker with a passion for technology, we would love to hear from you.
